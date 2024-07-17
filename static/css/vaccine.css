@@ -52,6 +52,7 @@ select,input[type="date"]{
     border: 1px solid #cecece;
     background: #FAFAFA;
     margin-left: 40px;
+    border-radius: 5px;
     background-clip: padding-box;
     box-sizing: border-box;
     width: 80%;

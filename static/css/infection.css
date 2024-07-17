@@ -52,6 +52,7 @@ input[type="radio"] {
     border: 1px solid #cecece;
     background: #FAFAFA;
     margin-right: 5px;
+    border-radius: 5px;
     background-clip: padding-box;
     box-sizing: border-box;
     width: 80%;
@@ -62,6 +63,7 @@ input[type="text"],input[type="date"]{
     padding: 15px 10px 10px;
     border: 1px solid #cecece;
     background: #FAFAFA;
+    border-radius: 5px;
     margin-left: 40px;
     background-clip: padding-box;
     box-sizing: border-box;

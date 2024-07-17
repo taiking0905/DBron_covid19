@@ -51,15 +51,13 @@ select,input[type="text"]{
     padding: 15px 10px 10px;
     border: 1px solid #cecece;
     background: #FAFAFA;
+    border-radius: 5px;
     margin-left: 40px;
     background-clip: padding-box;
     box-sizing: border-box;
     width: 80%;
     max-width: 250px;
     
-}
-input[type="date"] {
-    font-size: 1.2em;
 }
 
 ::-webkit-input-placeholder {
